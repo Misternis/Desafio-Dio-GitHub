@@ -1,0 +1,19 @@
+# Alguns Comandos Importantes
+
+
+
+
+ls (para Listar arquivos)
+
+
+Ctrl + L (limpar tela Git)
+
+
+git add * ou . (Utilizado para passar de unmodif para Modif)
+
+
+git commit -m "xxxxx" (Para commita arquivos no git hub, sempre descrever o que foi feito)
+
+
+git push origin main  (Comando para enviar todos os commits para nuvem)
+
